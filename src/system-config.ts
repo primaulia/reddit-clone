@@ -9,6 +9,8 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map: any = {
+  'semantic-ui-css': 'vendor/semantic-ui-css',
+  'jquery': 'vendor/jquery/dist'
 };
 
 /** User packages configuration. */
